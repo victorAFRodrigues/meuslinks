@@ -276,6 +276,10 @@ a{
 
 @media  screen and (min-width: 768px){
 
+    .meuslinks{
+        padding:0;
+    }
+
     i{
         font-size: 2em;
     }
@@ -287,7 +291,5 @@ a{
 }
 
 @media  screen and (min-height: 680px){
-    .meuslinks{
-        padding:0;
-    }
+
 }
