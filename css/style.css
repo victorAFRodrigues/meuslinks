@@ -201,7 +201,7 @@ a{
 .sass{
     color: var(--sass);
 }
-.angular, .social_icons:hover i.angular{
+.angular, .social_icons:hover i.angular:hover{
     background: linear-gradient(45deg, #ff0057, #9a00ff);
     -webkit-background-clip: text;
     background-clip: text;
