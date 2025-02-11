@@ -186,31 +186,31 @@ a{
 }
 
 /* Techs hovers */
-.php:hover, .php:focus{
+.php{
     color: var(--php);
 }
-.js:hover{
+.js{
     color: var(--js);
 }
-.ts:hover{
+.ts{
     color: var(--ts);
 }
-.wp:hover{
+.wp{
     color: var(--wordpress);
 }
-.sass:hover{
+.sass{
     color: var(--sass);
 }
-.angular:hover, .social_icons:hover i.angular{
+.angular, .social_icons:hover i.angular{
     background: linear-gradient(45deg, #ff0057, #9a00ff);
     -webkit-background-clip: text;
     background-clip: text;
     color: var(--angular);
 }
-.docker:hover{
+.docker{
     color: var(--docker);
 }
-.tailwind:hover{
+.tailwind{
     color: var(--tailwind);
 }
 
